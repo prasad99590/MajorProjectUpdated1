@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ML Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            height: 100vh;
+        }
+        h2 {
+            color: #333;
+        }
+        form {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 300px;
+            margin: 0 auto;
+        }
+        label {
+            font-weight: bold;
+            margin-bottom: 5px;
+            display: block;
+            color: #555;
+        }
+        input[type="text"],
+        select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        form select {
+            height: 35px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Check Your Weight Category</h2>
+    <form action="/predict" method="post">
+        <label for="height">Height (feet):</label>
+        <input type="text" id="height" name="height">
+
+        <label for="weight">Weight (kg):</label>
+        <input type="text" id="weight" name="weight">
+
+        <label for="age">Age:</label>
+        <input type="text" id="age" name="age">
+
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </select>
+
+        <label for="medical_history">Medical History:</label>
+        <select id="medical_history" name="medical_history">
+            <option value="None">None</option>
+            <option value="High BP">High BP</option>
+            <option value="Low BP">Low BP</option>
+            <option value="Diabetes">Diabetes</option>
+        </select>
+
+        <input type="submit" value="Predict">
+    </form>
+</body>
+</html>

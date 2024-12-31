@@ -1,0 +1,501 @@
+Height (Feet),Weight (Kg),Age,Gender,Past Medical History,BMI Category
+5.1,48,64,Male,High BP,Normal
+5.6,49,58,Male,None,Underweight
+6.4,87,55,Male,Low BP,Normal
+4.9,44,43,Male,Diabetes,Normal
+6,58,27,Male,High BP,Underweight
+5.9,79,38,Female,None,Normal
+5.7,74,60,Male,High BP,Normal
+4.8,97,63,Male,High BP,Obese
+6.4,61,46,Male,Low BP,Underweight
+5.4,64,27,Male,Low BP,Normal
+5.5,97,63,Male,Diabetes,Obese
+4.7,43,35,Female,Low BP,Normal
+6.4,62,35,Female,Low BP,Underweight
+5,77,56,Male,High BP,Obese
+5.7,46,42,Female,Diabetes,Underweight
+6,42,20,Female,None,Underweight
+4.7,84,70,Male,Diabetes,Obese
+5.6,73,18,Male,Diabetes,Overweight
+5.6,74,47,Male,Diabetes,Overweight
+5.2,54,33,Female,Low BP,Normal
+5.3,98,54,Male,Low BP,Obese
+5.2,56,37,Male,Diabetes,Normal
+5.1,42,24,Female,Low BP,Underweight
+4.6,100,36,Male,None,Obese
+5.8,51,42,Male,None,Underweight
+4.5,54,22,Male,Low BP,Overweight
+6.4,59,70,Male,None,Underweight
+6.2,53,18,Male,None,Underweight
+6.3,75,41,Male,High BP,Normal
+6.1,88,65,Female,Low BP,Overweight
+6.1,67,53,Male,Low BP,Normal
+6.2,81,51,Female,Diabetes,Normal
+5.4,41,55,Female,Low BP,Underweight
+5.3,88,37,Male,High BP,Obese
+5.3,92,66,Male,Diabetes,Obese
+6.4,83,63,Female,Low BP,Normal
+5.4,46,56,Male,High BP,Underweight
+5.1,73,51,Male,Low BP,Obese
+4.8,75,28,Female,Low BP,Obese
+5.1,58,59,Female,Low BP,Normal
+6,91,67,Male,None,Overweight
+5.3,68,46,Male,None,Overweight
+4.8,70,28,Female,High BP,Obese
+6.5,80,28,Female,Low BP,Normal
+4.7,67,52,Male,Diabetes,Obese
+5,96,64,Male,High BP,Obese
+5.8,84,36,Male,None,Overweight
+5.3,44,34,Male,None,Underweight
+5.2,45,59,Male,None,Underweight
+5,62,44,Male,High BP,Overweight
+4.8,51,66,Female,None,Normal
+5.6,89,52,Female,Low BP,Obese
+5.6,67,25,Female,None,Normal
+5.3,92,51,Female,Diabetes,Obese
+5.3,94,55,Female,Low BP,Obese
+5.6,72,57,Female,High BP,Normal
+6.2,46,43,Female,High BP,Underweight
+4.8,73,61,Male,High BP,Obese
+4.7,57,57,Male,Low BP,Overweight
+5.2,82,41,Male,Diabetes,Obese
+4.8,87,58,Female,High BP,Obese
+5.9,53,44,Male,High BP,Underweight
+4.5,76,35,Female,High BP,Obese
+6,69,20,Male,Low BP,Normal
+4.8,64,34,Female,None,Overweight
+4.6,93,19,Female,Diabetes,Obese
+4.5,67,36,Male,High BP,Obese
+5.7,97,68,Male,Low BP,Obese
+5.6,86,65,Male,Diabetes,Overweight
+5.7,52,27,Male,Low BP,Underweight
+5,43,69,Male,Low BP,Normal
+5.9,66,52,Male,None,Normal
+5.6,94,64,Female,None,Obese
+5.3,85,54,Male,Low BP,Obese
+6.1,92,51,Female,High BP,Overweight
+5.2,42,61,Male,Diabetes,Underweight
+6,89,29,Male,None,Overweight
+6.2,51,27,Female,None,Underweight
+6,77,69,Male,Low BP,Normal
+5.6,50,18,Male,None,Underweight
+5,99,35,Female,Low BP,Obese
+4.8,50,31,Male,High BP,Normal
+5.3,80,62,Female,None,Obese
+5,55,70,Male,Diabetes,Normal
+6,84,67,Male,Low BP,Overweight
+4.7,80,19,Male,High BP,Obese
+4.8,56,32,Male,None,Overweight
+5,49,60,Male,High BP,Normal
+5.8,88,62,Female,High BP,Overweight
+5.4,53,26,Female,Diabetes,Normal
+4.7,50,66,Male,None,Normal
+5.3,93,67,Male,High BP,Obese
+5.7,47,53,Female,Low BP,Underweight
+4.8,75,18,Male,Diabetes,Obese
+5.3,44,25,Female,Low BP,Underweight
+5.9,74,39,Female,None,Normal
+6,62,33,Male,Diabetes,Normal
+5.8,46,34,Female,None,Underweight
+5.1,54,59,Female,High BP,Normal
+4.6,52,26,Male,Diabetes,Overweight
+5.3,81,24,Male,Diabetes,Obese
+6.1,59,61,Male,None,Underweight
+6,58,24,Female,Diabetes,Underweight
+4.9,40,33,Female,Low BP,Underweight
+6.3,98,23,Male,Diabetes,Overweight
+6.2,61,68,Male,Diabetes,Underweight
+6.4,82,29,Female,High BP,Normal
+5.2,64,64,Male,None,Overweight
+5.1,47,57,Male,None,Normal
+4.8,72,18,Male,Low BP,Obese
+5.5,46,39,Male,High BP,Underweight
+6.3,72,30,Male,High BP,Normal
+4.8,96,32,Male,Diabetes,Obese
+5.7,86,53,Female,Low BP,Overweight
+6,73,21,Female,Diabetes,Normal
+5.3,85,63,Female,Diabetes,Obese
+4.7,98,47,Male,None,Obese
+4.7,87,25,Male,Diabetes,Obese
+4.9,58,70,Female,Diabetes,Overweight
+5.9,99,54,Female,Diabetes,Obese
+4.8,94,57,Male,Low BP,Obese
+6.4,40,23,Female,Low BP,Underweight
+5.8,72,46,Female,None,Normal
+6.2,61,41,Female,High BP,Underweight
+6.3,43,52,Male,Low BP,Underweight
+4.9,68,34,Female,High BP,Obese
+5.1,92,60,Male,Low BP,Obese
+4.6,72,61,Female,Low BP,Obese
+4.7,93,51,Male,Low BP,Obese
+6.3,69,47,Male,High BP,Normal
+6.3,96,33,Male,High BP,Overweight
+5,47,27,Female,None,Normal
+4.8,81,26,Female,Low BP,Obese
+4.9,76,40,Male,None,Obese
+5.5,68,49,Female,Low BP,Normal
+6.1,57,70,Male,Low BP,Underweight
+5.4,52,23,Male,Diabetes,Normal
+5.5,72,52,Male,Diabetes,Overweight
+5.3,69,31,Female,Diabetes,Overweight
+5.4,80,36,Male,Diabetes,Overweight
+5.8,94,33,Female,Diabetes,Obese
+5,82,18,Female,None,Obese
+4.7,73,67,Male,Diabetes,Obese
+4.8,55,36,Female,None,Overweight
+6.4,84,52,Female,None,Normal
+5.9,69,39,Female,None,Normal
+5.4,75,35,Male,Diabetes,Overweight
+6.1,91,28,Female,Diabetes,Overweight
+6.4,41,53,Male,None,Underweight
+5.6,89,59,Female,Diabetes,Obese
+6,61,50,Male,Low BP,Underweight
+4.6,68,39,Female,Low BP,Obese
+5.2,78,61,Male,High BP,Obese
+5,45,49,Female,None,Normal
+5.6,93,64,Male,Low BP,Obese
+5.3,58,46,Male,Low BP,Normal
+6.4,82,32,Male,Low BP,Normal
+4.7,84,41,Male,Low BP,Obese
+6.4,62,29,Male,Diabetes,Underweight
+4.6,88,32,Female,None,Obese
+5.4,48,56,Female,Low BP,Underweight
+4.6,59,25,Female,None,Obese
+5.3,100,60,Male,None,Obese
+6.1,59,28,Male,High BP,Underweight
+6,88,29,Male,Diabetes,Overweight
+6.4,93,19,Male,None,Normal
+5.2,52,51,Female,Diabetes,Normal
+5.3,53,23,Male,None,Normal
+5.7,100,44,Female,None,Obese
+6.1,83,56,Female,None,Normal
+5.6,82,26,Male,None,Overweight
+5.1,81,45,Male,Diabetes,Obese
+5,80,63,Male,Diabetes,Obese
+5,65,30,Female,High BP,Overweight
+6,59,62,Male,Diabetes,Underweight
+5.1,65,40,Female,Low BP,Overweight
+5.5,59,39,Male,Low BP,Normal
+4.8,57,32,Male,Diabetes,Overweight
+6,73,69,Female,Low BP,Normal
+6.2,75,18,Male,High BP,Normal
+4.7,100,23,Female,None,Obese
+4.8,66,34,Male,None,Obese
+5.7,98,29,Male,None,Obese
+5.1,72,44,Female,Diabetes,Overweight
+5.5,59,24,Female,Low BP,Normal
+5.4,53,27,Male,Diabetes,Normal
+6.2,43,56,Female,Low BP,Underweight
+5.1,86,61,Female,Diabetes,Obese
+5,43,30,Female,None,Normal
+6.1,51,54,Male,None,Underweight
+5.8,40,49,Female,Low BP,Underweight
+4.8,68,43,Female,Diabetes,Obese
+6.2,55,23,Male,Low BP,Underweight
+4.8,47,51,Female,None,Normal
+4.6,84,62,Male,Low BP,Obese
+4.9,65,59,Female,High BP,Overweight
+5.5,59,68,Male,None,Normal
+5.6,100,34,Male,Diabetes,Obese
+5.2,69,39,Female,Low BP,Overweight
+6.4,65,57,Male,Low BP,Underweight
+4.9,58,37,Male,None,Overweight
+6.3,55,26,Female,None,Underweight
+5,85,50,Female,Low BP,Obese
+5.8,62,30,Male,Diabetes,Normal
+4.7,84,30,Male,High BP,Obese
+5.9,56,25,Male,High BP,Underweight
+6.2,57,40,Male,High BP,Underweight
+5.4,47,59,Female,None,Underweight
+5.6,68,22,Female,Low BP,Normal
+5.4,58,69,Male,None,Normal
+5.8,51,64,Male,Low BP,Underweight
+5.7,72,56,Female,High BP,Normal
+5.9,86,48,Male,None,Overweight
+6.2,91,39,Male,Diabetes,Overweight
+4.8,95,59,Female,High BP,Obese
+5.7,51,31,Male,Low BP,Underweight
+5.1,41,24,Male,Diabetes,Underweight
+4.6,58,69,Female,None,Overweight
+5.3,40,56,Male,Diabetes,Underweight
+4.8,58,67,Female,None,Overweight
+4.8,41,45,Male,Diabetes,Normal
+6.2,92,68,Male,Diabetes,Overweight
+5.1,90,44,Female,Diabetes,Obese
+5.8,48,69,Female,Low BP,Underweight
+5.8,53,26,Male,High BP,Underweight
+5,92,29,Male,None,Obese
+5.1,81,21,Male,Low BP,Obese
+4.7,45,43,Male,None,Normal
+5.2,49,22,Male,Low BP,Normal
+6.3,58,24,Female,Diabetes,Underweight
+5.6,40,46,Male,Diabetes,Underweight
+6.2,95,42,Female,Diabetes,Overweight
+5.8,73,29,Female,Low BP,Normal
+6.3,78,53,Female,High BP,Normal
+6.4,74,31,Male,None,Normal
+6,82,36,Female,None,Normal
+5.1,76,22,Female,High BP,Obese
+6.1,59,30,Female,Low BP,Underweight
+5.1,95,49,Male,High BP,Obese
+5.6,74,27,Female,Low BP,Overweight
+5.4,94,38,Male,Low BP,Obese
+4.6,54,28,Female,Low BP,Overweight
+5.2,56,41,Female,Low BP,Normal
+5.5,97,18,Female,Diabetes,Obese
+6,82,39,Female,None,Normal
+5.2,84,28,Male,None,Obese
+5.7,93,64,Female,None,Obese
+4.6,49,56,Male,None,Obese
+6.4,92,54,Female,High BP,Normal
+4.8,83,53,Female,High BP,Obese
+6,53,47,Male,Diabetes,Underweight
+5,78,32,Male,High BP,Obese
+5.7,73,34,Female,None,Normal
+4.6,87,28,Male,None,Obese
+6.3,72,53,Female,Low BP,Normal
+5.3,41,56,Male,Diabetes,Underweight
+4.7,52,46,Male,None,Overweight
+6.3,45,48,Female,Low BP,Underweight
+5.2,49,39,Male,Diabetes,Normal
+5.3,59,27,Female,Low BP,Normal
+5.6,78,18,Female,None,Overweight
+4.9,95,47,Male,High BP,Obese
+5.3,59,51,Male,None,Normal
+6.4,51,54,Male,High BP,Underweight
+6,79,50,Female,Low BP,Normal
+6,61,38,Male,Low BP,Underweight
+5.9,92,37,Male,None,Overweight
+6.5,56,20,Female,Diabetes,Underweight
+6.5,57,54,Female,Diabetes,Underweight
+4.9,51,69,Male,None,Normal
+5.5,83,67,Male,High BP,Overweight
+6.4,75,67,Female,Diabetes,Normal
+5.8,56,38,Male,Low BP,Underweight
+4.9,88,52,Male,Low BP,Obese
+4.6,69,51,Female,Low BP,Obese
+6.3,87,28,Male,None,Normal
+5.9,72,70,Male,Low BP,Normal
+6,48,36,Male,Low BP,Underweight
+6.5,97,34,Male,High BP,Normal
+4.8,59,25,Male,Low BP,Overweight
+5.4,70,63,Female,High BP,Overweight
+5.1,92,35,Male,None,Obese
+5.9,82,30,Male,Diabetes,Overweight
+4.6,56,69,Female,High BP,Overweight
+5.4,62,54,Male,High BP,Normal
+5.7,70,45,Female,High BP,Normal
+6.3,44,63,Male,None,Underweight
+5.7,74,28,Female,Diabetes,Normal
+5.1,51,51,Female,High BP,Normal
+5,54,43,Female,Low BP,Normal
+5.4,97,67,Male,Low BP,Obese
+6,58,25,Female,Diabetes,Underweight
+6.5,92,61,Female,High BP,Normal
+5.4,46,45,Female,Diabetes,Underweight
+5.6,73,48,Female,High BP,Overweight
+4.9,65,36,Female,High BP,Overweight
+6.4,40,70,Female,High BP,Underweight
+4.8,79,37,Female,Diabetes,Obese
+5,70,39,Female,Diabetes,Obese
+5.5,99,61,Male,None,Obese
+4.7,75,53,Female,High BP,Obese
+5.4,89,29,Male,None,Obese
+6.3,99,48,Male,None,Overweight
+5.7,72,21,Male,High BP,Normal
+4.7,59,42,Male,High BP,Overweight
+5.9,94,20,Female,None,Overweight
+5.3,81,54,Female,Diabetes,Obese
+5.3,88,55,Male,Low BP,Obese
+6,82,22,Male,Low BP,Normal
+6.1,89,41,Female,High BP,Overweight
+4.8,95,53,Male,Diabetes,Obese
+6,46,70,Male,Diabetes,Underweight
+4.8,51,56,Male,Low BP,Normal
+5.1,79,48,Male,Diabetes,Obese
+5.3,59,29,Male,None,Normal
+4.6,65,22,Female,None,Obese
+5.8,44,42,Male,Diabetes,Underweight
+4.7,72,70,Female,Diabetes,Obese
+5.1,87,36,Female,High BP,Obese
+5.8,95,49,Male,None,Obese
+5.5,47,46,Female,High BP,Underweight
+6,97,26,Male,Low BP,Overweight
+4.6,87,37,Male,High BP,Obese
+5.1,72,25,Female,Low BP,Overweight
+6.4,92,65,Female,None,Normal
+5.9,50,24,Male,High BP,Underweight
+4.9,42,21,Female,None,Normal
+4.9,90,32,Male,Low BP,Obese
+5.7,55,19,Male,Diabetes,Underweight
+6.4,47,68,Male,Low BP,Underweight
+4.9,86,52,Male,High BP,Obese
+6.4,65,42,Male,Low BP,Underweight
+5.5,93,61,Male,Low BP,Obese
+4.9,89,63,Female,Diabetes,Obese
+5.1,56,50,Male,None,Normal
+5.1,94,68,Female,High BP,Obese
+5.5,64,23,Female,Low BP,Normal
+4.9,83,63,Male,High BP,Obese
+5.2,81,47,Male,Low BP,Obese
+6.1,89,20,Female,Low BP,Overweight
+6.3,76,48,Male,High BP,Normal
+5.9,93,61,Male,Diabetes,Overweight
+5,88,39,Female,High BP,Obese
+6.2,97,51,Female,High BP,Overweight
+5.6,100,30,Male,Low BP,Obese
+5.3,73,41,Male,Diabetes,Overweight
+5.1,79,46,Male,Diabetes,Obese
+4.9,62,62,Male,None,Overweight
+4.8,64,48,Female,Low BP,Overweight
+6.4,91,65,Female,Diabetes,Normal
+5.1,84,64,Female,High BP,Obese
+5.1,48,34,Female,Diabetes,Normal
+6.1,45,57,Male,Diabetes,Underweight
+6.2,66,23,Female,Low BP,Underweight
+6.4,92,42,Female,None,Normal
+6.2,72,61,Male,Low BP,Normal
+6,61,53,Male,High BP,Underweight
+4.5,42,68,Male,Diabetes,Normal
+5.6,45,45,Male,Low BP,Underweight
+6.4,46,43,Female,None,Underweight
+6.4,74,21,Female,None,Normal
+5.9,55,45,Male,High BP,Underweight
+6.5,60,40,Male,Low BP,Underweight
+4.6,60,49,Female,Low BP,Obese
+5.9,56,42,Male,Diabetes,Underweight
+4.6,89,24,Female,Diabetes,Obese
+4.8,43,18,Female,Diabetes,Normal
+4.6,81,47,Male,Low BP,Obese
+4.5,99,30,Female,Low BP,Obese
+4.9,80,21,Female,Diabetes,Obese
+4.6,81,58,Male,None,Obese
+4.9,61,50,Male,Low BP,Overweight
+6,67,23,Male,Low BP,Normal
+5.7,94,30,Female,Diabetes,Obese
+5.9,95,65,Male,Diabetes,Overweight
+4.7,41,33,Male,Diabetes,Normal
+5.1,61,64,Female,Diabetes,Overweight
+6,54,66,Female,Diabetes,Underweight
+6.1,85,22,Male,Diabetes,Normal
+5.6,85,51,Female,High BP,Overweight
+4.8,61,56,Female,High BP,Overweight
+6.2,91,49,Male,Low BP,Overweight
+4.6,64,35,Male,Diabetes,Obese
+5.5,87,59,Male,None,Obese
+5.5,87,32,Male,None,Obese
+5,82,66,Female,Low BP,Obese
+4.7,70,42,Female,Low BP,Obese
+6,91,50,Male,None,Overweight
+6.2,42,31,Female,High BP,Underweight
+6,55,67,Male,Diabetes,Underweight
+5,60,45,Female,None,Overweight
+6.2,56,28,Male,High BP,Underweight
+4.9,94,41,Female,None,Obese
+5.3,98,61,Male,Diabetes,Obese
+4.5,79,23,Female,None,Obese
+5.3,68,23,Male,Diabetes,Overweight
+4.6,92,37,Female,Low BP,Obese
+6.1,87,18,Male,None,Overweight
+5.6,96,22,Female,Low BP,Obese
+6.1,48,20,Male,Low BP,Underweight
+6.3,57,23,Female,None,Underweight
+5.4,66,62,Male,High BP,Normal
+5.7,89,18,Female,Diabetes,Overweight
+5.5,68,52,Male,Diabetes,Normal
+5,51,42,Male,None,Normal
+5.4,91,30,Female,High BP,Obese
+6.4,42,32,Male,None,Underweight
+5.8,44,68,Male,High BP,Underweight
+4.8,96,35,Female,Diabetes,Obese
+4.7,69,38,Female,Diabetes,Obese
+5.4,58,51,Male,None,Normal
+6.4,42,69,Male,None,Underweight
+5.3,64,68,Male,Low BP,Normal
+6,97,49,Male,Low BP,Overweight
+5.2,51,57,Male,None,Normal
+6,71,44,Female,None,Normal
+4.5,42,46,Female,Diabetes,Normal
+5.5,62,66,Male,Diabetes,Normal
+5.2,48,53,Male,None,Normal
+6.4,74,35,Male,Diabetes,Normal
+5.2,88,56,Male,Low BP,Obese
+5.2,41,25,Male,Low BP,Underweight
+5.2,63,44,Male,High BP,Overweight
+5.9,80,35,Male,Low BP,Normal
+5.9,55,31,Male,Low BP,Underweight
+4.7,51,44,Female,High BP,Normal
+6.1,78,18,Male,High BP,Normal
+6.2,94,21,Male,Diabetes,Overweight
+6.4,81,57,Male,Low BP,Normal
+6.4,65,42,Male,High BP,Underweight
+4.6,40,69,Male,High BP,Normal
+4.7,99,38,Male,None,Obese
+5.6,74,49,Male,Diabetes,Overweight
+5,85,66,Male,Diabetes,Obese
+5.9,89,63,Male,High BP,Overweight
+5.3,82,29,Male,Diabetes,Obese
+4.5,65,41,Male,Diabetes,Obese
+5.2,88,56,Female,None,Obese
+5.9,79,65,Male,Diabetes,Normal
+5.8,86,39,Female,None,Overweight
+5.4,52,54,Male,Low BP,Normal
+6.3,73,66,Female,None,Normal
+5,47,51,Female,High BP,Normal
+6.3,60,59,Female,High BP,Underweight
+6,42,19,Female,Low BP,Underweight
+5.2,65,63,Female,Diabetes,Overweight
+5,45,26,Male,Low BP,Normal
+5.2,88,59,Female,Low BP,Obese
+4.8,85,31,Male,High BP,Obese
+5.8,67,58,Female,High BP,Normal
+4.8,68,56,Male,Low BP,Obese
+6.2,49,37,Male,Low BP,Underweight
+5.3,52,48,Male,None,Normal
+5.1,78,59,Male,High BP,Obese
+5.1,68,65,Female,Diabetes,Overweight
+5,41,45,Female,High BP,Underweight
+5.6,41,40,Female,High BP,Underweight
+6.4,76,20,Female,High BP,Normal
+5.3,81,37,Female,Low BP,Obese
+6.4,68,33,Male,None,Underweight
+6.3,96,61,Male,Diabetes,Overweight
+6.3,44,61,Male,None,Underweight
+6.2,88,40,Male,Diabetes,Normal
+6,72,26,Male,None,Normal
+5.7,50,25,Female,Low BP,Underweight
+4.6,65,42,Female,Low BP,Obese
+6.1,69,18,Female,Diabetes,Normal
+4.7,41,54,Male,High BP,Normal
+4.9,64,57,Female,High BP,Overweight
+5.8,73,46,Male,Low BP,Normal
+5.4,97,32,Male,Diabetes,Obese
+5.7,83,58,Female,None,Overweight
+5.6,40,31,Female,High BP,Underweight
+6.4,45,33,Male,None,Underweight
+4.7,100,48,Female,High BP,Obese
+4.8,78,65,Female,Low BP,Obese
+6.4,90,68,Male,Low BP,Normal
+5.6,62,52,Female,High BP,Normal
+6,42,66,Female,Low BP,Underweight
+5.5,42,33,Male,Low BP,Underweight
+6.2,70,26,Female,High BP,Normal
+6.2,77,50,Male,High BP,Normal
+5.1,53,39,Female,Low BP,Normal
+5,59,48,Male,Diabetes,Overweight
+5.3,40,52,Female,Low BP,Underweight
+5.2,47,56,Female,Diabetes,Normal
+5.5,45,20,Female,Diabetes,Underweight
+6.5,73,19,Male,Diabetes,Normal
+5.5,82,30,Male,Diabetes,Overweight
+5.2,90,47,Male,Diabetes,Obese
+6.5,53,50,Female,High BP,Underweight
+5.9,97,65,Male,Low BP,Obese
+5.7,40,43,Male,Low BP,Underweight
+5.7,61,19,Female,None,Normal
+5.8,60,38,Female,Low BP,Normal
+5,96,65,Male,Diabetes,Obese
+5.1,72,45,Male,High BP,Overweight
+6.4,56,70,Female,High BP,Underweight
+5.9,96,70,Female,None,Overweight
+5.9,44,37,Female,High BP,Underweight
